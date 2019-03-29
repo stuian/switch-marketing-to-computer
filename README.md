@@ -8,5 +8,3 @@
 
 - 01-from-preparation-to-postgraduate-entrance-exam：前期准备和初试在这里；
 - 02-second-round-exam：关于复试的内容在这里；
-
-
