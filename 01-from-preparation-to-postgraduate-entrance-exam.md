@@ -35,7 +35,7 @@
 
 2018拟录取计划
 
-![2019](https://github.com/stuian/switch-marketing-to-computer/blob/master/pictures/2018plan.jpg?raw=true)
+![2019](https://github.com/stuian/switch-marketing-to-computer/blob/master/pictures/2019plan.jpg?raw=true)
 
 2019拟录取计划
 
